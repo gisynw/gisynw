@@ -17,6 +17,14 @@
 ## **Skills**
 ![My Skills](https://skillicons.dev/icons?i=js,py,r,html,css)
 
+## **Teaching**
+- 2025 &emsp;  [SSJ 376 Spatial Database DVLP in PRAC](https://gisynw.github.io/ssj-376/) - Clark University
+- 2025 &emsp;  [GEOG 386 Sptial Topics: Python Programming](https://gisynw.github.io/geog386/) - Clark University
+- 2025 &emsp;  [GEOG 247 Intermediate Quantitative Methods in GEOG](https://gisynw.github.io/geog-247/) - Clark University
+- 2024 &emsp;  [SSJ 30262 Web Mapping & Open Source GIS](https://gisynw.github.io/ssj-30262/) - Clark University
+- 2024  &emsp; SSJ 302 Python Programming & SSJ 30274 Computer PROG for GIS - Clark University
+- 2022  &emsp; Principles of Geospatial Information Sciences -  University of Texas at Dallas
+- 2021  &emsp; Methods of Quantitative Analysis in the Social and Policy Science - University of Texas at Dallas
 ## Latest Blog Post on [Medium](https://ywu120766.medium.com/)
 
 [Publish and update web map on ArcGIS Online Using ArcGIS API for Python](https://ywu120766.medium.com/publish-a-web-map-on-arcgis-online-using-arcgis-api-for-python-a7b3dc639ed7)
