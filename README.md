@@ -4,7 +4,7 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=xVDuszoAAAAJ&hl=en)
 
 #### **Spatial Minds, Data Discoveries - an explorer who merges the worlds of data and geography.** 
-+ 👩‍🏫 I am a Visiting Assistant Professor (VAP) in the Graduate School of Geography at Clark University
++ 👩‍🏫 I am an Assistant Professor (AP) in the Geography Department at The University of Central Arkansas
   
 + 🎓 PhD in the Department of Geospatial Information Sciences @ [The University of Texas at Dallas](https://epps.utdallas.edu/about/programs/geospatial-information-sciences/). 
 
