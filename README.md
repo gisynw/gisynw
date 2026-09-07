@@ -41,7 +41,7 @@
 
 ## Get in touch
 ### **I'm always open and looking for any opportunity, feel free to reach me out via:<br />**
-- Email: [YanaWu@clarku.edu](mailto:YanaWu@clarku.edu)<br />
+- Email: [ywu@uca.edu](mailto:ywu@uca.edu)<br />
 - Linkedin: [in/giswu](https://www.linkedin.com/in/giswu/)<br />
 - Twitter: [YananWGIS](https://twitter.com/YananWGIS)<br />
 - Medium: [@ywu120766](https://medium.com/@ywu120766)
